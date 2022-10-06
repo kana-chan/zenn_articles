@@ -1,0 +1,11 @@
+{
+  "name": "zenn_articles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kana-chan/zenn_articles.git",
+  "author": "k.okayama <k.okayama@gemcook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.131"
+  }
+}
